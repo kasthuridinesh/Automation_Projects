@@ -1,0 +1,3 @@
+2023-05-18 18:53:43,101 - com.atmecs.qa.generalMethods.AuthentictaionMethods:108 -INFO - logger initilazed succesfully
+2023-05-18 18:53:43,128 - com.atmecs.qa.generalMethods.Baseclass:128 -INFO - Response gathered from server for the  noAuth Authentication
+2023-05-18 18:53:45,684 - com.atmecs.qa.generalMethods.AuthentictaionMethods:45 -INFO - 200

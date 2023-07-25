@@ -1,0 +1,2 @@
+| invoice_date | vendor_tax_reg | billing_office_name | currency_type | start_date | end_date | client_billed | client_tax_reg_num | vendor_matter_number | description | other_currency | total_tax_other_currency | total_with_tax_other_currency |
+|              |                |                     | USD           |            |          | test          |                    |                      | 123         |                |                          |                               |

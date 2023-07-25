@@ -1,0 +1,239 @@
+2023-07-11 11:05:13,326 - org.action_class.ActionClass -INFO - loginToApplication Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:05:13,337 - org.action_class.ActionClass -INFO - selectValueFromDropDownThen I Select the dropdown<field>with<values>
+2023-07-11 11:05:13,353 - org.action_class.ActionClass -INFO - selectCheckBoxThen I Select the checkbox<field>with<values>
+2023-07-11 11:05:13,355 - org.action_class.ActionClass -INFO - enterDataInTextBoxThen I enter the <content> in textbox field
+2023-07-11 11:05:13,357 - org.action_class.ActionClass -INFO - clickRadioButtonThen I Select the radio button option<radioButtonName>
+2023-07-11 11:05:13,359 - org.action_class.ActionClass -INFO - searchButtonThen I search for the <content>in the search bar
+2023-07-11 11:05:13,362 - org.action_class.ActionClass -INFO - menuBarThen I click menubar and select<menu> menu
+2023-07-11 11:05:13,364 - org.action_class.ActionClass -INFO - verifyMenuBarThen I verify menu bar contains<all Necessary>button
+2023-07-11 11:05:13,366 - org.action_class.ActionClass -INFO - alterMessageThen I validate alert message<message>and accept
+2023-07-11 11:05:13,371 - org.action_class.ActionClass -INFO - navigateToPagesThen I navigate to<page> and click<field>
+2023-07-11 11:05:13,373 - org.action_class.ActionClass -INFO - selectIcon Then I click on <iconName>icon
+2023-07-11 11:05:13,375 - org.action_class.ActionClass -INFO - clickImage Then I click on <image>image
+2023-07-11 11:05:13,376 - org.action_class.ActionClass -INFO - clickTooltip Then I click on the <field>displayed on tooltip
+2023-07-11 11:05:13,380 - org.action_class.ActionClass -INFO - clickingLink Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:05:13,382 - org.action_class.ActionClass -INFO - notificationMessage Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:05:13,384 - org.action_class.ActionClass -INFO - takeScreenShotThen I perform an action that requires a screenshot
+2023-07-11 11:05:13,386 - org.action_class.ActionClass -INFO - saveScreenShotThen a screenshot should be captured with the name<path>
+2023-07-11 11:09:37,070 - org.action_class.ActionClass -INFO - loginToApplication Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:09:37,087 - org.action_class.ActionClass -INFO - selectValueFromDropDownThen I Select the dropdown<field>with<values>
+2023-07-11 11:09:37,090 - org.action_class.ActionClass -INFO - selectCheckBoxThen I Select the checkbox<field>with<values>
+2023-07-11 11:09:37,093 - org.action_class.ActionClass -INFO - enterDataInTextBoxThen I enter the <content> in textbox field
+2023-07-11 11:09:37,095 - org.action_class.ActionClass -INFO - clickRadioButtonThen I Select the radio button option<radioButtonName>
+2023-07-11 11:09:37,097 - org.action_class.ActionClass -INFO - searchButtonThen I search for the <content>in the search bar
+2023-07-11 11:09:37,099 - org.action_class.ActionClass -INFO - menuBarThen I click menubar and select<menu> menu
+2023-07-11 11:09:37,101 - org.action_class.ActionClass -INFO - verifyMenuBarThen I verify menu bar contains<all Necessary>button
+2023-07-11 11:09:37,103 - org.action_class.ActionClass -INFO - alterMessageThen I validate alert message<message>and accept
+2023-07-11 11:09:37,108 - org.action_class.ActionClass -INFO - navigateToPagesThen I navigate to<page> and click<field>
+2023-07-11 11:09:37,110 - org.action_class.ActionClass -INFO - selectIcon Then I click on <iconName>icon
+2023-07-11 11:09:37,112 - org.action_class.ActionClass -INFO - clickImage Then I click on <image>image
+2023-07-11 11:09:37,114 - org.action_class.ActionClass -INFO - clickTooltip Then I click on the <field>displayed on tooltip
+2023-07-11 11:09:37,117 - org.action_class.ActionClass -INFO - clickingLink Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:09:37,118 - org.action_class.ActionClass -INFO - notificationMessage Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:09:37,119 - org.action_class.ActionClass -INFO - takeScreenShotThen I perform an action that requires a screenshot
+2023-07-11 11:09:37,122 - org.action_class.ActionClass -INFO - saveScreenShotThen a screenshot should be captured with the name<path>
+2023-07-11 11:23:51,656 - org.action_class.ActionClass -INFO - loginToApplication Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:23:51,663 - org.action_class.ActionClass -INFO - selectValueFromDropDownThen I Select the dropdown<field>with<values>
+2023-07-11 11:23:51,668 - org.action_class.ActionClass -INFO - selectCheckBoxThen I Select the checkbox<field>with<values>
+2023-07-11 11:23:51,671 - org.action_class.ActionClass -INFO - enterDataInTextBoxThen I enter the <content> in textbox field
+2023-07-11 11:23:51,673 - org.action_class.ActionClass -INFO - clickRadioButtonThen I Select the radio button option<radioButtonName>
+2023-07-11 11:23:51,676 - org.action_class.ActionClass -INFO - searchButtonThen I search for the <content>in the search bar
+2023-07-11 11:23:51,679 - org.action_class.ActionClass -INFO - menuBarThen I click menubar and select<menu> menu
+2023-07-11 11:23:51,682 - org.action_class.ActionClass -INFO - verifyMenuBarThen I verify menu bar contains<all Necessary>button
+2023-07-11 11:23:51,684 - org.action_class.ActionClass -INFO - alterMessageThen I validate alert message<message>and accept
+2023-07-11 11:23:51,688 - org.action_class.ActionClass -INFO - navigateToPagesThen I navigate to<page> and click<field>
+2023-07-11 11:23:51,691 - org.action_class.ActionClass -INFO - selectIcon Then I click on <iconName>icon
+2023-07-11 11:23:51,693 - org.action_class.ActionClass -INFO - clickImage Then I click on <image>image
+2023-07-11 11:23:51,696 - org.action_class.ActionClass -INFO - clickTooltip Then I click on the <field>displayed on tooltip
+2023-07-11 11:23:51,699 - org.action_class.ActionClass -INFO - clickingLink Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:23:51,701 - org.action_class.ActionClass -INFO - notificationMessage Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:23:51,702 - org.action_class.ActionClass -INFO - takeScreenShotThen I perform an action that requires a screenshot
+2023-07-11 11:23:51,704 - org.action_class.ActionClass -INFO - saveScreenShotThen a screenshot should be captured with the name<path>
+2023-07-11 11:25:30,012 - org.action_class.ActionClass -INFO - loginToApplication Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:25:30,022 - org.action_class.ActionClass -INFO - selectValueFromDropDownThen I Select the dropdown<field>with<values>
+2023-07-11 11:25:30,026 - org.action_class.ActionClass -INFO - selectCheckBoxThen I Select the checkbox<field>with<values>
+2023-07-11 11:25:30,031 - org.action_class.ActionClass -INFO - enterDataInTextBoxThen I enter the <content> in textbox field
+2023-07-11 11:25:30,034 - org.action_class.ActionClass -INFO - clickRadioButtonThen I Select the radio button option<radioButtonName>
+2023-07-11 11:25:30,036 - org.action_class.ActionClass -INFO - searchButtonThen I search for the <content>in the search bar
+2023-07-11 11:25:30,040 - org.action_class.ActionClass -INFO - menuBarThen I click menubar and select<menu> menu
+2023-07-11 11:25:30,045 - org.action_class.ActionClass -INFO - verifyMenuBarThen I verify menu bar contains<all Necessary>button
+2023-07-11 11:25:30,048 - org.action_class.ActionClass -INFO - alterMessageThen I validate alert message<message>and accept
+2023-07-11 11:25:30,052 - org.action_class.ActionClass -INFO - navigateToPagesThen I navigate to<page> and click<field>
+2023-07-11 11:25:30,055 - org.action_class.ActionClass -INFO - selectIcon Then I click on <iconName>icon
+2023-07-11 11:25:30,059 - org.action_class.ActionClass -INFO - clickImage Then I click on <image>image
+2023-07-11 11:25:30,063 - org.action_class.ActionClass -INFO - clickTooltip Then I click on the <field>displayed on tooltip
+2023-07-11 11:25:30,068 - org.action_class.ActionClass -INFO - clickingLink Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:25:30,071 - org.action_class.ActionClass -INFO - notificationMessage Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:25:30,071 - org.action_class.ActionClass -INFO - takeScreenShotThen I perform an action that requires a screenshot
+2023-07-11 11:25:30,074 - org.action_class.ActionClass -INFO - saveScreenShotThen a screenshot should be captured with the name<path>
+2023-07-11 11:26:55,140 - org.action_class.ActionClass -INFO - loginToApplication Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:26:55,160 - org.action_class.ActionClass -INFO - selectValueFromDropDownThen I Select the dropdown<field>with<values>
+2023-07-11 11:26:55,163 - org.action_class.ActionClass -INFO - selectCheckBoxThen I Select the checkbox<field>with<values>
+2023-07-11 11:26:55,166 - org.action_class.ActionClass -INFO - enterDataInTextBoxThen I enter the <content> in textbox field
+2023-07-11 11:26:55,168 - org.action_class.ActionClass -INFO - clickRadioButtonThen I Select the radio button option<radioButtonName>
+2023-07-11 11:26:55,171 - org.action_class.ActionClass -INFO - searchButtonThen I search for the <content>in the search bar
+2023-07-11 11:26:55,173 - org.action_class.ActionClass -INFO - menuBarThen I click menubar and select<menu> menu
+2023-07-11 11:26:55,175 - org.action_class.ActionClass -INFO - verifyMenuBarThen I verify menu bar contains<all Necessary>button
+2023-07-11 11:26:55,177 - org.action_class.ActionClass -INFO - alterMessageThen I validate alert message<message>and accept
+2023-07-11 11:26:55,181 - org.action_class.ActionClass -INFO - navigateToPagesThen I navigate to<page> and click<field>
+2023-07-11 11:26:55,185 - org.action_class.ActionClass -INFO - selectIcon Then I click on <iconName>icon
+2023-07-11 11:26:55,187 - org.action_class.ActionClass -INFO - clickImage Then I click on <image>image
+2023-07-11 11:26:55,189 - org.action_class.ActionClass -INFO - clickTooltip Then I click on the <field>displayed on tooltip
+2023-07-11 11:26:55,193 - org.action_class.ActionClass -INFO - clickingLink Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:26:55,195 - org.action_class.ActionClass -INFO - notificationMessage Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:26:55,196 - org.action_class.ActionClass -INFO - takeScreenShotThen I perform an action that requires a screenshot
+2023-07-11 11:26:55,199 - org.action_class.ActionClass -INFO - saveScreenShotThen a screenshot should be captured with the name<path>
+2023-07-11 11:32:55,279 - org.action_class.ActionClass -INFO - loginToApplication Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:32:55,288 - org.action_class.ActionClass -INFO - selectValueFromDropDownThen I Select the dropdown<field>with<values>
+2023-07-11 11:32:55,292 - org.action_class.ActionClass -INFO - selectCheckBoxThen I Select the checkbox<field>with<values>
+2023-07-11 11:32:55,295 - org.action_class.ActionClass -INFO - enterDataInTextBoxThen I enter the <content> in textbox field
+2023-07-11 11:32:55,298 - org.action_class.ActionClass -INFO - clickRadioButtonThen I Select the radio button option<radioButtonName>
+2023-07-11 11:32:55,301 - org.action_class.ActionClass -INFO - searchButtonThen I search for the <content>in the search bar
+2023-07-11 11:32:55,302 - org.action_class.ActionClass -INFO - menuBarThen I click menubar and select<menu> menu
+2023-07-11 11:32:55,305 - org.action_class.ActionClass -INFO - verifyMenuBarThen I verify menu bar contains<all Necessary>button
+2023-07-11 11:32:55,308 - org.action_class.ActionClass -INFO - alterMessageThen I validate alert message<message>and accept
+2023-07-11 11:32:55,312 - org.action_class.ActionClass -INFO - navigateToPagesThen I navigate to<page> and click<field>
+2023-07-11 11:32:55,314 - org.action_class.ActionClass -INFO - selectIcon Then I click on <iconName>icon
+2023-07-11 11:32:55,317 - org.action_class.ActionClass -INFO - clickImage Then I click on <image>image
+2023-07-11 11:32:55,319 - org.action_class.ActionClass -INFO - clickTooltip Then I click on the <field>displayed on tooltip
+2023-07-11 11:32:55,322 - org.action_class.ActionClass -INFO - clickingLink Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:32:55,324 - org.action_class.ActionClass -INFO - notificationMessage Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:32:55,324 - org.action_class.ActionClass -INFO - takeScreenShotThen I perform an action that requires a screenshot
+2023-07-11 11:32:55,327 - org.action_class.ActionClass -INFO - saveScreenShotThen a screenshot should be captured with the name<path>
+2023-07-11 11:53:35,193 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:53:35,201 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 11:53:35,206 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 11:53:35,208 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 11:53:35,210 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 11:53:35,212 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 11:53:35,215 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 11:53:35,219 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 11:53:35,221 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 11:53:35,225 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 11:53:35,226 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 11:53:35,228 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 11:53:35,230 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 11:53:35,233 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:53:35,235 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:53:35,235 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 11:53:35,237 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 11:57:43,046 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:59:29,918 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 11:59:29,925 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 11:59:29,941 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 11:59:29,944 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 11:59:29,947 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 11:59:29,950 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 11:59:29,952 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 11:59:29,954 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 11:59:29,957 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 11:59:29,961 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 11:59:29,963 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 11:59:29,965 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 11:59:29,968 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 11:59:29,973 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 11:59:29,976 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 11:59:29,977 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 11:59:29,979 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 12:26:36,397 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 12:26:36,403 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 12:26:36,405 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 12:26:36,408 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 12:26:36,410 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 12:26:36,412 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 12:26:36,414 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 12:26:36,416 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 12:26:36,434 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 12:26:36,438 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 12:26:36,439 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 12:26:36,441 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 12:26:36,443 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 12:26:36,446 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 12:26:36,448 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 12:26:36,449 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 12:26:36,451 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 12:26:36,454 - org.action_class.ActionClass -INFO - datePicker::Then I select the<currentDate>from the date picker
+2023-07-11 12:26:36,458 - org.action_class.ActionClass -INFO - dragAndDrop::Then I drag the<element>and drop it into the respective<dropPlace>
+2023-07-11 12:50:39,487 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 12:50:39,494 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 12:50:39,501 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 12:50:39,504 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 12:50:39,506 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 12:50:39,509 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 12:50:39,511 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 12:50:39,514 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 12:50:39,518 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 12:50:39,521 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 12:50:39,523 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 12:50:39,525 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 12:50:39,527 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 12:50:39,530 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 12:50:39,532 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 12:50:39,533 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 12:50:39,534 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 12:50:39,536 - org.action_class.ActionClass -INFO - datePicker::Then I select the<currentDate>from the date picker
+2023-07-11 12:50:39,538 - org.action_class.ActionClass -INFO - dragAndDrop::Then I drag the<element>and drop it into the respective<dropPlace>
+2023-07-11 12:50:39,538 - org.action_class.ActionClass -INFO - Then I perform the scroll up and scroll down operation
+2023-07-11 12:55:12,719 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 12:55:12,726 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 12:55:12,730 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 12:55:12,733 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 12:55:12,735 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 12:55:12,737 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 12:55:12,740 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 12:55:12,743 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 12:55:12,745 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 12:55:12,751 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 12:55:12,755 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 12:55:12,757 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 12:55:12,761 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 12:55:12,765 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 12:55:12,768 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 12:55:12,769 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 12:55:12,771 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 12:55:12,773 - org.action_class.ActionClass -INFO - datePicker::Then I select the<currentDate>from the date picker
+2023-07-11 12:55:12,776 - org.action_class.ActionClass -INFO - dragAndDrop::Then I drag the<element>and drop it into the respective<dropPlace>
+2023-07-11 12:55:12,776 - org.action_class.ActionClass -INFO - scrollOperation::Then I perform the scroll up and scroll down operation
+2023-07-11 12:55:12,777 - org.action_class.ActionClass -INFO - slider::Then I perform the Slider operation for the specificvalues
+2023-07-11 12:56:16,713 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 12:56:16,721 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 12:56:16,736 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 12:56:16,740 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 12:56:16,742 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 12:56:16,747 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 12:56:16,749 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 12:56:16,751 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 12:56:16,753 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 12:56:16,758 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 12:56:16,760 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 12:56:16,763 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 12:56:16,765 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 12:56:16,770 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 12:56:16,772 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 12:56:16,773 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 12:56:16,774 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 12:56:16,777 - org.action_class.ActionClass -INFO - datePicker::Then I select the<currentDate>from the date picker
+2023-07-11 12:56:16,781 - org.action_class.ActionClass -INFO - dragAndDrop::Then I drag the<element>and drop it into the respective<dropPlace>
+2023-07-11 12:56:16,782 - org.action_class.ActionClass -INFO - scrollOperation::Then I perform the scroll up and scroll down operation
+2023-07-11 12:56:16,783 - org.action_class.ActionClass -INFO - slider::Then I perform the Slider operation for the specificvalues
+2023-07-11 13:34:58,238 - org.action_class.ActionClass -INFO - loginToApplication:: Given I login to the application using username<user_name>and password<password>
+2023-07-11 13:34:58,246 - org.action_class.ActionClass -INFO - selectValueFromDropDown::Then I Select the dropdown<field>with<values>
+2023-07-11 13:34:58,249 - org.action_class.ActionClass -INFO - selectCheckBox::Then I Select the checkbox<field>with<values>
+2023-07-11 13:34:58,251 - org.action_class.ActionClass -INFO - enterDataInTextBox::Then I enter the <content> in textbox field
+2023-07-11 13:34:58,254 - org.action_class.ActionClass -INFO - clickRadioButton::Then I Select the radio button option<radioButtonName>
+2023-07-11 13:34:58,257 - org.action_class.ActionClass -INFO - searchButton::Then I search for the <content>in the search bar
+2023-07-11 13:34:58,259 - org.action_class.ActionClass -INFO - menuBar::Then I click menubar and select<menu> menu
+2023-07-11 13:34:58,263 - org.action_class.ActionClass -INFO - verifyMenuBar::Then I verify menu bar contains<all Necessary>button
+2023-07-11 13:34:58,265 - org.action_class.ActionClass -INFO - alterMessage::Then I validate alert message<message>and accept
+2023-07-11 13:34:58,268 - org.action_class.ActionClass -INFO - navigateToPages::Then I navigate to<page> and click<field>
+2023-07-11 13:34:58,269 - org.action_class.ActionClass -INFO - selectIcon:: Then I click on <iconName>icon
+2023-07-11 13:34:58,271 - org.action_class.ActionClass -INFO - clickImage:: Then I click on <image>image
+2023-07-11 13:34:58,272 - org.action_class.ActionClass -INFO - clickTooltip:: Then I click on the <field>displayed on tooltip
+2023-07-11 13:34:58,274 - org.action_class.ActionClass -INFO - clickingLink:: Then I click the<linkText>and that should be redirected to the<destinationPage>
+2023-07-11 13:34:58,275 - org.action_class.ActionClass -INFO - notificationMessage:: Then I should see the notification message<notificationMessage> and display the message in the output
+2023-07-11 13:34:58,275 - org.action_class.ActionClass -INFO - takeScreenShot::Then I perform an action that requires a screenshot
+2023-07-11 13:34:58,277 - org.action_class.ActionClass -INFO - saveScreenShot::Then a screenshot should be captured with the name<path>
+2023-07-11 13:34:58,280 - org.action_class.ActionClass -INFO - datePicker::Then I select the<currentDate>from the date picker
+2023-07-11 13:34:58,284 - org.action_class.ActionClass -INFO - dragAndDrop::Then I drag the<element>and drop it into the respective<dropPlace>
+2023-07-11 13:34:58,284 - org.action_class.ActionClass -INFO - scrollOperation::Then I perform the scroll up and scroll down operation
+2023-07-11 13:34:58,284 - org.action_class.ActionClass -INFO - slider::Then I perform the Slider operation for the specificvalues

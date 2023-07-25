@@ -1,0 +1,328 @@
+2023-06-29 12:04:30,352 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 12:04:30,387 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 12:04:30,387 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 13:25:53,217 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 13:25:53,244 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 13:25:53,245 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 15:36:58,019 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 15:36:58,043 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 15:36:58,044 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 15:38:26,000 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 15:38:26,025 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 15:38:26,026 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 15:47:25,760 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 15:47:25,784 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 15:47:25,784 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 16:30:17,349 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 16:30:17,375 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 16:30:17,375 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 18:04:20,301 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 18:04:20,326 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 18:04:20,326 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 18:05:34,939 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 18:05:34,963 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 18:05:34,963 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-29 18:06:54,708 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-29 18:06:54,728 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-29 18:06:54,729 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 10:56:03,765 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 10:56:03,821 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-30 10:56:03,822 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 13:10:58,957 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 13:10:58,983 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-30 13:10:58,984 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 15:06:19,206 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:06:19,223 - org.wk.step.StepDefinition -INFO - verification
+2023-06-30 15:06:19,229 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-30 15:06:19,229 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 15:10:36,595 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:10:36,614 - org.wk.step.StepDefinition -INFO - verification
+2023-06-30 15:10:36,618 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-06-30 15:10:36,618 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 15:11:38,817 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:11:38,847 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-06-30 15:11:38,847 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 15:43:43,594 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:44:21,198 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:45:59,577 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:53:49,624 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 15:56:15,335 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:02:33,099 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:05:23,040 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:08:59,745 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:10:20,886 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:10:20,927 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-06-30 16:10:20,928 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-30 16:13:12,559 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:17:57,724 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:22:26,245 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:24:31,724 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:27:09,897 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:27:58,179 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:34:07,391 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-30 16:34:07,418 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-06-30 16:34:07,418 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 15:47:05,974 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 15:47:06,009 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 15:47:06,009 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 16:05:38,450 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 16:05:38,478 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 16:05:38,479 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 16:20:24,905 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 16:20:24,929 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 16:20:24,930 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 16:29:45,630 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 16:29:45,659 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 16:29:45,660 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 16:31:49,798 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 16:31:49,819 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 16:31:49,820 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 16:33:40,634 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 16:33:40,659 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 16:33:40,660 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 16:38:11,421 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 16:38:11,443 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 16:38:11,443 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 17:16:52,126 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 17:16:52,144 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 17:16:52,144 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 17:28:37,112 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 17:28:37,128 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-04 17:28:37,129 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-04 17:28:37,130 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-04 17:28:37,131 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-04 17:28:37,137 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-04 17:28:37,144 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 17:28:37,144 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 17:35:08,090 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 17:35:08,113 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 17:35:08,113 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 17:52:41,764 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 17:52:41,795 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 17:52:41,796 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 17:53:10,944 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 17:53:10,961 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-04 17:53:10,962 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-04 17:53:10,962 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-04 17:53:10,963 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-04 17:53:10,971 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-04 17:53:10,983 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 17:53:10,984 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-04 18:06:22,731 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-04 18:06:22,748 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-04 18:06:22,748 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-04 18:06:22,748 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-04 18:06:22,749 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-04 18:06:22,755 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-04 18:06:22,762 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-04 18:06:22,763 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-05 18:12:26,959 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-05 18:12:26,988 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-05 18:12:26,989 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-05 18:12:26,989 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-05 18:12:26,990 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-05 18:12:26,996 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-05 18:12:27,002 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-05 18:12:27,003 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-05 18:26:31,417 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-05 18:26:31,430 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-05 18:26:31,430 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-05 18:40:31,114 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-05 18:40:31,128 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-05 18:40:31,129 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-05 18:40:31,130 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-05 18:40:31,131 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-05 18:40:31,135 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-05 18:40:31,140 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-05 18:40:31,140 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-06 15:42:40,336 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-06 15:42:40,374 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-06 15:42:40,375 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-06 15:42:40,375 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-06 15:42:40,375 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-06 15:42:40,381 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-06 15:42:40,393 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-06 15:42:40,393 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-06 18:03:44,031 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-06 18:03:44,041 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-06 18:03:44,042 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-06 18:03:44,042 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-06 18:03:44,042 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-06 18:03:44,048 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-06 18:03:44,053 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-06 18:03:44,054 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-06 21:20:48,286 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-06 21:20:48,318 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-06 21:20:48,318 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-06 21:20:48,320 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-06 21:20:48,321 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-06 21:20:48,325 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-06 21:20:48,338 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-06 21:20:48,338 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-07 14:36:24,535 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-07 14:36:24,550 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-07 14:36:24,550 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-07 14:36:24,551 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-07 14:36:24,551 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-07 14:36:24,559 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-07 14:36:24,566 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-07 14:36:24,567 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-07 15:52:08,890 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-07 15:52:08,905 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-07 15:52:08,905 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-07 15:52:08,906 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-07 15:52:08,906 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-07 15:52:08,911 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-07 15:52:08,919 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-07 15:52:08,919 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-07-07 16:26:41,315 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-07-07 16:26:41,329 - org.wk.test.GetMethods -INFO - Given I login as 'admin' and 'datacert'
+
+2023-07-07 16:26:41,331 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List'with given mode'Normal'
+Then I prepare item screen'Base Org Header'for the entity'Organization'in mode'Add'
+
+2023-07-07 16:26:41,332 - org.wk.test.GetMethods -INFO - Then I provide field'Name'with value 'OrgName'
+
+2023-07-07 16:26:41,333 - org.wk.test.GetMethods -INFO - Then I provide filed organization type with value 'Internal'
+Then I provide field 'Int Organization Sub Type' with value 'InternalSubOrgType'
+Then I provide field Vendor ID with value 'OrgNum'
+Then I invoke operation 'Save'
+
+2023-07-07 16:26:41,341 - org.wk.test.GetMethods -INFO - Then I prepare list screen 'Organization List' with given mode 'Normal'
+Then I remove all search filters
+Then I add search filters perform search and store result in a variable '_ParentInstanceId'
+Then I verify list row count 'count'
+
+
+2023-07-07 16:26:41,352 - org.wk.utils.FeatureFileWriter -INFO - Feature file write successfully
+2023-07-07 16:26:41,353 - org.wk.step.StepDefinition -INFO - Feature file generated successfully

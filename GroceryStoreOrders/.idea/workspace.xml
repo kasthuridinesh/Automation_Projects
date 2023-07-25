@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a62c357-c076-49d9-925c-d1abf7fa63c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/api/GeneralMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/Build/CreateProductIdJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/Build/OrderBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/Build/UpdateOrderBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/dto/CreateProductId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/dto/OrderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/dto/UpdateOrderData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/widgeBuild/ImageBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/widgeDto/Images.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/widgeDto/RootKasthuri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/widgeDto/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/widgeDto/Widge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/pojo/widgeDto/Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/test/TestOrders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/test/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/test/TestStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/utils/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/utils/Endpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/utils/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/utils/StatusCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/atmecs/qa/utils/StatusCodeVerifer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonData/productpayload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema/addProductItem.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema/createCart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema/createOrder.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema/getProduct.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/schema/postResponseschema.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/atmecs/qa/api/GeneralMethod.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QGxeEkrq34FsG3pjCc6qlpmOWc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/kasthuri.kandavelu/Downloads/org.WoltersKluwer",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kasthuri.kandavelu\Downloads\api_basic\GroceryStoreOrders\src\test\resources" />
+      <recent name="C:\Users\kasthuri.kandavelu\Downloads\api_basic\GroceryStoreOrders\src\test\resources\schema" />
+      <recent name="C:\Users\kasthuri.kandavelu\Downloads\api_basic\GroceryStoreOrders\src\test\resources\jsonData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestStore.updateOrder">
+    <configuration name="TestOrders" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GroceryStoreOrders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atmecs.qa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atmecs.qa.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atmecs.qa.test.TestOrders" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GroceryStoreOrders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atmecs.qa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atmecs.qa.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atmecs.qa.test.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.createNewOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GroceryStoreOrders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atmecs.qa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atmecs.qa.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atmecs.qa.test.TestRunner" />
+      <option name="METHOD_NAME" value="createNewOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner.updateOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GroceryStoreOrders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atmecs.qa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atmecs.qa.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atmecs.qa.test.TestRunner" />
+      <option name="METHOD_NAME" value="updateOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStore.updateOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GroceryStoreOrders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atmecs.qa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atmecs.qa.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atmecs.qa.test.TestStore" />
+      <option name="METHOD_NAME" value="updateOrder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestStore.updateOrder" />
+        <item itemvalue="TestNG.TestRunner.updateOrder" />
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="TestNG.TestRunner.createNewOrder" />
+        <item itemvalue="TestNG.TestOrders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a62c357-c076-49d9-925c-d1abf7fa63c6" name="Changes" comment="" />
+      <created>1684993815443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684993815443</updated>
+    </task>
+    <servers />
+  </component>
+</project>

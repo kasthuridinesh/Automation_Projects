@@ -1,0 +1,452 @@
+2023-06-22 17:54:40,760 - org.wk.utils.ReadExcelData -INFO - Login
+2023-06-22 17:54:40,761 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 17:54:40,762 - org.wk.utils.ReadExcelData -INFO - ClickContextMenu
+2023-06-22 17:54:40,762 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 17:54:40,762 - org.wk.utils.ReadExcelData -INFO - CreateNewOrganization
+2023-06-22 17:54:40,763 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 17:54:40,763 - org.wk.utils.ReadExcelData -INFO - OrganizationType
+2023-06-22 17:54:40,763 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 17:54:40,763 - org.wk.utils.ReadExcelData -INFO - Verification
+2023-06-22 17:54:40,764 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 17:55:20,726 - org.wk.utils.ReadExcelData -INFO - Login
+2023-06-22 17:55:20,727 - org.wk.utils.ReadExcelData -INFO - ClickContextMenu
+2023-06-22 17:55:20,728 - org.wk.utils.ReadExcelData -INFO - CreateNewOrganization
+2023-06-22 17:55:20,728 - org.wk.utils.ReadExcelData -INFO - OrganizationType
+2023-06-22 17:55:20,728 - org.wk.utils.ReadExcelData -INFO - Verification
+2023-06-22 17:55:20,728 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 18:17:12,493 - org.wk.utils.ReadExcelData -INFO - 1. Login into the application with username and password
+2023-06-22 18:17:12,498 - org.wk.utils.ReadExcelData -INFO - 2. Click context menu link Organization
+2023-06-22 18:17:12,498 - org.wk.utils.ReadExcelData -INFO - 3. Navigate to Organization tab and then create new Organization
+2023-06-22 18:17:12,498 - org.wk.utils.ReadExcelData -INFO - 4. Organization type should be Internal
+2023-06-22 18:17:12,499 - org.wk.utils.ReadExcelData -INFO - 5.Verify newly created organization record
+2023-06-22 18:17:12,499 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-22 18:22:38,800 - org.wk.utils.ReadExcelData -INFO - Login
+2023-06-22 18:22:38,802 - org.wk.utils.ReadExcelData -INFO - ClickContextMenu
+2023-06-22 18:22:38,802 - org.wk.utils.ReadExcelData -INFO - CreateNewOrganization
+2023-06-22 18:22:38,802 - org.wk.utils.ReadExcelData -INFO - OrganizationType
+2023-06-22 18:22:38,803 - org.wk.utils.ReadExcelData -INFO - Verification
+2023-06-22 18:22:38,803 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-26 19:23:04,731 - org.wk.utils.ReadExcelData -INFO - Login
+2023-06-26 19:23:04,733 - org.wk.utils.ReadExcelData -INFO - ClickContextMenu
+2023-06-26 19:23:04,734 - org.wk.utils.ReadExcelData -INFO - CreateNewOrganization
+2023-06-26 19:23:04,734 - org.wk.utils.ReadExcelData -INFO - OrganizationType
+2023-06-26 19:23:04,734 - org.wk.utils.ReadExcelData -INFO - Verification
+2023-06-26 19:23:04,735 - org.wk.utils.ReadExcelData -INFO - Excel Read is Performed
+2023-06-26 19:36:15,369 - org.wk.utils.TestCaseReader -INFO - Login
+2023-06-26 19:36:15,371 - org.wk.utils.TestCaseReader -INFO - Login into the application with <username> and <password>
+2023-06-26 19:36:15,372 - org.wk.utils.TestCaseReader -INFO - ClickContextMenu
+2023-06-26 19:36:15,372 - org.wk.utils.TestCaseReader -INFO - Click context menu link Organization
+2023-06-26 19:36:15,373 - org.wk.utils.TestCaseReader -INFO - CreateNewOrganization
+2023-06-26 19:36:15,374 - org.wk.utils.TestCaseReader -INFO - Navigate to Organization tab and then create new Organization
+2023-06-26 19:36:15,374 - org.wk.utils.TestCaseReader -INFO - OrganizationType
+2023-06-26 19:36:15,375 - org.wk.utils.TestCaseReader -INFO - Organization type should be Internal
+2023-06-26 19:36:15,375 - org.wk.utils.TestCaseReader -INFO - Verification
+2023-06-26 19:36:15,376 - org.wk.utils.TestCaseReader -INFO - Verify newly created organization record
+2023-06-26 19:36:15,376 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-26 19:37:34,076 - org.wk.utils.TestCaseReader -INFO - Login
+2023-06-26 19:37:34,078 - org.wk.utils.TestCaseReader -INFO - ClickContextMenu
+2023-06-26 19:37:34,078 - org.wk.utils.TestCaseReader -INFO - CreateNewOrganization
+2023-06-26 19:37:34,079 - org.wk.utils.TestCaseReader -INFO - OrganizationType
+2023-06-26 19:37:34,079 - org.wk.utils.TestCaseReader -INFO - Verification
+2023-06-26 19:37:34,079 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 11:25:45,408 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 11:25:45,410 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 11:25:45,411 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 11:25:45,411 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 11:25:45,411 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 11:25:45,412 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 11:34:36,661 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 11:34:36,675 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 11:34:36,675 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 11:34:36,675 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 11:34:36,676 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 11:34:36,676 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:00:57,453 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:00:57,458 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:00:57,459 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:00:57,459 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:00:57,460 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:00:57,460 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:32:34,198 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:32:34,211 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:32:34,211 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:32:34,211 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:32:34,212 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:32:34,212 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:34:00,062 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:34:00,070 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:34:00,072 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:34:00,073 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:34:00,073 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:34:00,074 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:35:23,354 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:35:23,356 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:35:23,357 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:35:23,357 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:35:23,357 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:35:23,357 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:37:00,080 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:37:00,081 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:37:00,082 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:37:00,082 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:37:00,083 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:37:00,083 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:52:44,541 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:52:44,544 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:52:44,545 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:52:44,545 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:52:44,545 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:52:44,545 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:53:41,521 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:53:41,523 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:53:41,524 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:53:41,524 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:53:41,524 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:53:41,525 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:54:34,282 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:54:34,284 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:54:34,285 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:54:34,285 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:54:34,285 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:54:34,285 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:55:19,025 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:55:19,027 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:55:19,027 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:55:19,028 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:55:19,028 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:55:19,029 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:55:50,995 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:55:50,998 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:55:50,998 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:55:50,999 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:55:50,999 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:55:50,999 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 12:56:41,432 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 12:56:41,434 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 12:56:41,435 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 12:56:41,435 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 12:56:41,435 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 12:56:41,436 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 13:04:00,832 - org.wk.utils.TestCaseReader -INFO - login
+2023-06-27 13:04:00,834 - org.wk.utils.TestCaseReader -INFO - clickContextMenu
+2023-06-27 13:04:00,836 - org.wk.utils.TestCaseReader -INFO - createNewOrganization
+2023-06-27 13:04:00,836 - org.wk.utils.TestCaseReader -INFO - organizationType
+2023-06-27 13:04:00,836 - org.wk.utils.TestCaseReader -INFO - verification
+2023-06-27 13:04:00,837 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 14:20:51,812 - org.wk.utils.TestCaseReader -INFO - {login=Login into the application with <username> and <password>, clickContextMenu=Click context menu link Organization, createNewOrganization=Navigate to Organization tab and then create new Organization, organizationType=Organization type should be Internal, verification=Verify newly created organization record}
+2023-06-27 14:20:51,814 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 14:22:42,376 - org.wk.utils.TestCaseReader -INFO - {login=Login into the application with <username> and <password>
+, clickContextMenu=Click context menu link Organization
+, createNewOrganization=Navigate to Organization tab and then create new Organization
+, organizationType=Organization type should be Internal
+, verification=Verify newly created organization record
+}
+2023-06-27 14:22:42,377 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 14:24:04,855 - org.wk.utils.TestCaseReader -INFO - {login=Login into the application with <username> and <password>
+, clickContextMenu=Click context menu link Organization
+, createNewOrganization=Navigate to Organization tab and then create new Organization
+, organizationType=Organization type should be Internal
+, verification=Verify newly created organization record
+}
+2023-06-27 14:24:04,857 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 14:48:40,340 - org.wk.utils.TestCaseReader -INFO - {login=Login into the application with <username> and <password>
+, clickContextMenu=Click context menu link Organization
+, createNewOrganization=Navigate to Organization tab and then create new Organization
+, organizationType=Organization type should be Internal
+, verification=Verify newly created organization record
+}
+2023-06-27 14:48:40,342 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 16:33:37,320 - org.wk.utils.TestCaseReader -INFO - {login=Login into the application with <username> and <password>
+, clickContextMenu=Click context menu link Organization
+, createNewOrganization=Navigate to Organization tab and then create new Organization
+, organizationType=Organization type should be Internal
+, verification=Verify newly created organization record
+}
+2023-06-27 16:33:37,323 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 16:35:25,568 - org.wk.utils.TestCaseReader -INFO - {organizationType=Organization type should be Internal
+, clickContextMenu=Click context menu link Organization
+, createNewOrganization=Navigate to Organization tab and then create new Organization
+, login=Login into the application with <username> and <password>
+, verification=Verify newly created organization record
+}
+2023-06-27 16:35:25,570 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 16:36:20,260 - org.wk.utils.TestCaseReader -INFO - {login=Login into the application with <username> and <password>
+, clickContextMenu=Click context menu link Organization
+, createNewOrganization=Navigate to Organization tab and then create new Organization
+, organizationType=Organization type should be Internal
+, verification=Verify newly created organization record
+}
+2023-06-27 16:36:20,262 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:22:11,445 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:22:59,674 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:24:46,838 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:29:40,425 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:32:38,799 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:33:17,564 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:36:54,103 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:40:23,849 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:41:45,625 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:46:21,230 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:49:07,668 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:55:37,454 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:56:12,591 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:56:47,110 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:57:22,848 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:57:56,319 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:58:16,521 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:59:02,162 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:59:52,096 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 17:59:59,940 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:00:02,756 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:01:42,412 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:01:47,404 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:01:50,066 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:09,189 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:11,813 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:14,182 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:16,590 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:18,831 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:21,256 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:23,701 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:34,362 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:02:48,483 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:04:23,109 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:04:31,658 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:06:51,096 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 18:07:09,824 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:20:28,262 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:20:54,185 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:21:45,598 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:27:40,840 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:37:48,068 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:37:48,083 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:39:37,132 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:39:37,150 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:01,683 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:40:01,702 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:01,704 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:01,706 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:01,708 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:01,709 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:24,318 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:40:24,332 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:24,334 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:24,336 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:24,339 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:40:24,341 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:05,451 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:42:05,466 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:05,469 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:05,470 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:05,473 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:05,475 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:41,751 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:42:41,768 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:41,770 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:41,771 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:41,773 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:42:41,775 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-27 19:44:48,521 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:45:05,193 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:45:27,022 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 19:50:58,612 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 20:44:12,833 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 20:46:11,149 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 20:48:32,634 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:00:50,773 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:04:41,927 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:08:38,421 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:08:59,248 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:10:49,329 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:13:35,311 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-27 21:15:54,462 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 10:43:07,497 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 10:43:50,944 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 10:44:57,504 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 10:55:54,170 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 11:04:34,944 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 11:05:20,804 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 11:05:44,197 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 11:07:18,485 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 11:07:37,430 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:22:12,473 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:22:12,487 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:22:12,490 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:22:12,491 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:22:12,493 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:23:13,542 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:23:13,545 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:23:13,548 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:23:13,550 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:23:13,551 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:39:58,792 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:44:50,226 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:45:54,636 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:46:20,082 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:46:53,659 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:48:38,399 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:49:44,461 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:56:41,091 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:59:56,061 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 12:59:56,070 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:59:56,072 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:59:56,074 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:59:56,075 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 12:59:56,078 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:05:14,589 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:05:14,597 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:19,308 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:06:19,316 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:19,317 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:19,318 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:19,319 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:19,321 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:41,511 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:06:41,519 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:41,521 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:41,522 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:41,524 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:06:41,526 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:09:39,229 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:09:39,237 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:10:16,747 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:10:16,757 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:13:31,181 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:13:31,188 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:15:26,620 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:15:26,625 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:17:09,688 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:17:09,697 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:18:38,455 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:18:38,464 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:18:41,494 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:18:41,503 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:19:21,472 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:20:30,315 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:20:30,327 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:01,292 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:21:01,301 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:01,302 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:01,303 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:01,305 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:01,307 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:51,684 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:21:51,694 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:51,696 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:51,698 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:51,700 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:21:51,703 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:22:10,032 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:22:10,040 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:22:10,041 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:22:10,043 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:22:10,044 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:22:10,045 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:22:55,688 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:22:55,698 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:32,877 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:27:32,886 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:32,888 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:32,890 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:32,894 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:32,895 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:46,561 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:27:46,574 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:46,576 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:46,579 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:46,581 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:27:46,583 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:32:52,464 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:35:23,759 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:35:23,775 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:37:02,458 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:37:02,475 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:37:46,450 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:37:46,469 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:38:33,908 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:38:33,926 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:39:11,450 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:39:11,466 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:39:30,130 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:39:30,151 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:40:30,331 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:40:30,350 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:41:02,678 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:41:02,697 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:41:38,038 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:41:38,057 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:41:51,176 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:41:51,195 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:42:30,634 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:42:30,656 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:42:48,050 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:42:48,066 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:43:22,689 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:43:22,705 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:44:24,668 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:44:24,686 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 13:45:40,012 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 13:45:40,022 - org.wk.test.CreateFeaturFile -INFO - Feature file generated successfully
+2023-06-28 14:37:39,397 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 14:37:39,418 - org.wk.test.CreateFeaturFile -INFO - Feature file writed successfully
+2023-06-28 14:42:13,306 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 14:43:05,501 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 14:50:13,513 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 14:50:13,522 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 14:50:30,230 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 14:50:30,241 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:04:47,854 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:04:47,868 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:04:47,868 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:10:51,205 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:10:51,218 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:10:51,219 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:16:19,067 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:16:19,080 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:16:19,080 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:31:54,464 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:31:54,481 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:31:54,481 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:33:25,485 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:33:25,499 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:33:25,500 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:37:17,004 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:37:17,018 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:37:17,018 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:38:04,758 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:38:04,771 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:38:04,771 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:42:52,952 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:42:59,864 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:43:27,001 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:44:23,593 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:44:48,673 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:45:18,531 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:47:14,332 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:47:14,345 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:47:14,346 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:47:30,044 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:47:30,061 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:47:30,061 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:55:00,232 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:55:00,250 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:55:00,251 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:55:55,961 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:55:55,978 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:55:55,979 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:55:57,254 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:55:57,267 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:55:57,268 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 15:56:36,030 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 15:56:36,049 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 15:56:36,049 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 17:15:03,244 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 17:15:03,271 - org.wk.test.CreateFeaturFile -INFO - Feature file writ successfully
+2023-06-28 17:15:03,271 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 17:40:15,060 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 17:41:07,454 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 17:41:07,468 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-28 17:41:07,468 - org.wk.step.StepDefinition -INFO - Feature file generated successfully
+2023-06-28 17:42:31,499 - org.wk.utils.TestCaseReader -INFO - Excel Read is Performed
+2023-06-28 17:42:31,509 - org.wk.utils.FeatureFileWriter -INFO - Feature file writ successfully
+2023-06-28 17:42:31,509 - org.wk.step.StepDefinition -INFO - Feature file generated successfully

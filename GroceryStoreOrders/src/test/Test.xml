@@ -1,0 +1,17 @@
+<suite name="sample suite">
+    <test name="API Tests">
+        <groups>
+            <run>
+                <include name="post"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.atmecs.qa.test.TestOrders"/>
+
+            <!-- Add other test classes -->
+        </classes>
+
+    </test>
+
+
+</suite>

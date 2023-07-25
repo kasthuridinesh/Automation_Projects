@@ -1,0 +1,25 @@
+{
+  "Data": {
+    "feature": "",
+    "Scenario": "",
+    "MatterName": "M1",
+    "CompanyName": "<company_name>",
+    "TemptaleName": "<template_name>",
+    "TemplateType": "<invoice_template_type>",
+    "InvoiceDate": " ",
+    "VentorTaxRegistration":" ",
+    "BillingOfficeName": " ",
+    "CurrencyType": "USD",
+    "StartDate": "10-07-2023",
+    "EndDate": "10-07-2023",
+    "LineItem": "<template_name>",
+    "InvoiceName": "inv1",
+    "Link": "<link>",
+    "RejectOption": "selected_line_item",
+    "Reason": "alternative_fee_Arragement",
+    "Narrative":"test",
+    "LineItemNos": "all",
+    "IsLineItemWindow": "ure"
+
+  }
+}

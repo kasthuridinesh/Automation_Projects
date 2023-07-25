@@ -1,0 +1,9 @@
+{
+	"LoginData": {
+		"TC01": {
+			"userName": "admin",
+			"password": "datacert",
+			"organizationType":"Internal"
+		}
+	}
+}

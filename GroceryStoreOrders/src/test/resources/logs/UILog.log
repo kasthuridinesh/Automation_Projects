@@ -1,0 +1,374 @@
+2023-05-26 14:45:36,592 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@3f702946
+2023-05-26 14:45:37,098 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 14:45:37,099 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 14:45:38,683 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6413d7e7
+2023-05-26 14:45:38,742 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 14:45:38,743 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 14:45:40,706 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@2a87ba34
+2023-05-26 14:45:40,719 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 14:45:40,719 - com.atmecs.qa.test.TestOrders -ERROR - Server Erroe
+2023-05-26 14:45:42,566 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "0Uui0g9_hI64hr_ggzHwU"
+}
+2023-05-26 14:45:42,583 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 14:45:42,584 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 14:45:44,102 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@5e1a986c
+2023-05-26 14:45:44,102 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 14:45:45,435 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@5b5f9003
+2023-05-26 14:45:45,435 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 14:45:46,784 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@4e4162bc
+2023-05-26 14:45:46,784 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 16:56:19,170 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@2b34e38c
+2023-05-26 16:56:19,734 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:56:19,734 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 16:56:21,084 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7112ce6
+2023-05-26 16:56:21,176 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:56:21,177 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 16:56:23,081 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@166c2c17
+2023-05-26 16:56:23,100 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:56:23,100 - com.atmecs.qa.test.TestOrders -ERROR - Server Erroe
+2023-05-26 16:56:24,867 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "Q4xh_6OtP4Myyu4L-lB6C"
+}
+2023-05-26 16:56:24,888 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:56:24,888 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 16:56:26,379 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@9cfc77
+2023-05-26 16:56:26,380 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 16:56:27,633 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@67688110
+2023-05-26 16:56:27,633 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 16:56:28,962 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7f2c57fe
+2023-05-26 16:56:28,962 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 16:57:04,157 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@2620e717
+2023-05-26 16:57:04,684 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:57:04,684 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 16:57:06,039 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@1665fa54
+2023-05-26 16:57:06,105 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:57:06,105 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 16:57:08,080 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@42ef042a
+2023-05-26 16:57:08,099 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:57:08,100 - com.atmecs.qa.test.TestOrders -ERROR - Server Erroe
+2023-05-26 16:57:09,820 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "YbRoA4wgsi58ljArbcV1B"
+}
+2023-05-26 16:57:09,835 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 16:57:09,835 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 16:57:11,338 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@44f0ff2b
+2023-05-26 16:57:11,339 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 16:57:12,587 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@707865bd
+2023-05-26 16:57:12,588 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 16:57:14,017 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6db328f8
+2023-05-26 16:57:14,017 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 18:44:36,483 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@1729ec00
+2023-05-26 18:44:37,035 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 18:44:37,035 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 18:44:38,359 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@441fbe89
+2023-05-26 18:44:38,430 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 18:44:38,430 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 18:44:40,499 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@184823ed
+2023-05-26 18:44:40,514 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 18:44:40,514 - com.atmecs.qa.test.TestOrders -ERROR - Server Erroe
+2023-05-26 18:44:42,444 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "vPbaMpMWwBmjWvaGJKJve"
+}
+2023-05-26 18:44:42,460 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 18:44:42,460 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 18:44:43,876 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@626e0c86
+2023-05-26 18:44:43,877 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 18:44:45,087 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@25974207
+2023-05-26 18:44:45,087 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 18:44:46,510 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@18709cb2
+2023-05-26 18:44:46,521 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 19:13:37,395 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6a937336
+2023-05-26 19:13:37,996 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 19:13:37,997 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 19:13:39,361 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@14924f41
+2023-05-26 19:13:39,465 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 19:13:39,466 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 19:13:41,404 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@65c17e38
+2023-05-26 19:13:41,419 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 19:13:41,419 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 19:13:43,082 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "L62grMT2sonDkaSveSYpG"
+}
+2023-05-26 19:13:43,094 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-05-26 19:13:43,094 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 19:13:44,516 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7a83ccd2
+2023-05-26 19:13:44,517 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 19:13:45,853 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7fbf26fc
+2023-05-26 19:13:45,854 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-05-26 19:13:47,189 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@67e0fd6d
+2023-05-26 19:13:47,190 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 19:15:04,019 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@69f0b0f4
+2023-05-26 19:15:04,551 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-05-26 19:16:24,982 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@69f0b0f4
+2023-05-26 19:16:25,506 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 22:42:31,848 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@69f0b0f4
+2023-06-01 22:42:32,411 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 22:48:17,143 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@78010562
+2023-06-01 22:48:17,741 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 22:48:17,741 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 22:48:19,291 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@f3560d4
+2023-06-01 22:48:19,362 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 22:48:19,363 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 22:48:21,113 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@1f4f0fcc
+2023-06-01 22:48:21,137 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 22:48:22,763 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "The cart is empty."
+}
+2023-06-01 22:48:22,775 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 22:48:24,400 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@5e1a5f
+2023-06-01 22:48:24,401 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 22:48:25,936 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@60bf494c
+2023-06-01 22:48:25,937 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 22:48:27,563 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@1e1e837d
+2023-06-01 22:48:27,564 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:01:57,623 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7c8d5312
+2023-06-01 23:01:58,196 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 23:01:58,196 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 23:01:59,744 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6d67f5eb
+2023-06-01 23:01:59,813 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 23:01:59,813 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:02:01,531 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@70b2fa10
+2023-06-01 23:02:01,547 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:02:02,967 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "The cart is empty."
+}
+2023-06-01 23:02:02,981 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:02:04,501 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@5efe47fd
+2023-06-01 23:02:04,502 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 23:02:06,040 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@47df5041
+2023-06-01 23:02:06,041 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 23:02:07,574 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@35145874
+2023-06-01 23:02:07,575 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:09:56,635 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-01 23:09:56,652 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 23:09:56,652 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:09:58,633 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6749fe50
+2023-06-01 23:09:59,175 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 23:09:59,175 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 23:10:00,874 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@57f8951a
+2023-06-01 23:10:00,965 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-01 23:10:00,965 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:10:02,579 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@3375ebd3
+2023-06-01 23:10:02,597 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-01 23:10:04,453 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@3830f918
+2023-06-01 23:10:04,454 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 23:10:06,057 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@586495f1
+2023-06-01 23:10:06,057 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-01 23:10:07,628 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@764fffa0
+2023-06-01 23:10:07,628 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 10:11:32,268 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@3727f0ee
+2023-06-02 10:11:33,009 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 10:11:33,009 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 10:11:34,268 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@4cb702ce
+2023-06-02 10:11:34,350 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 10:11:34,350 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 10:11:36,191 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@2dfeb141
+2023-06-02 10:11:36,204 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 10:11:36,204 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 10:11:37,438 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@37e0056e
+2023-06-02 10:11:37,450 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 10:11:38,683 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@79d7035
+2023-06-02 10:11:38,684 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 10:11:39,852 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@5e5ddfbc
+2023-06-02 10:11:39,853 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 10:38:34,603 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 10:38:34,610 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 10:38:34,611 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 10:39:29,176 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 10:39:29,185 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 10:39:29,185 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 10:40:15,587 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 10:40:15,593 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:02:27,744 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 11:02:27,752 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:17:19,868 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 11:17:19,880 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:17:19,880 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:17:21,138 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7beae796
+2023-06-02 11:17:21,818 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:17:21,818 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:17:22,967 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@443a53df
+2023-06-02 11:17:23,005 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:19:07,360 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 11:19:08,025 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:19:44,536 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@38aafb53
+2023-06-02 11:19:45,116 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:19:45,117 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:19:46,334 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6088451e
+2023-06-02 11:19:46,412 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:19:46,412 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:19:48,264 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@30bbcf91
+2023-06-02 11:19:48,278 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:19:48,278 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:19:50,012 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "lWaGT4QrIKkZlc74ZHiqN"
+}
+2023-06-02 11:19:50,025 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:19:50,026 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:19:51,342 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@552fee7a
+2023-06-02 11:19:51,343 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:19:52,411 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@43935e9c
+2023-06-02 11:19:52,411 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:19:54,022 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@3b35798
+2023-06-02 11:19:54,023 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:20:48,783 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@35f639fa
+2023-06-02 11:20:49,401 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:20:49,401 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:20:50,559 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@65a9ea3c
+2023-06-02 11:20:50,631 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:20:50,631 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:20:52,543 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@3b9ac754
+2023-06-02 11:20:52,555 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:20:52,556 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:20:54,123 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "rgUW0ra9tNLGJJUcrBHzp"
+}
+2023-06-02 11:20:54,136 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:20:54,136 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:25:39,028 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@5aaaa446
+2023-06-02 11:25:39,686 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:25:39,686 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:25:40,932 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@70f68288
+2023-06-02 11:25:41,016 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:25:41,016 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:25:42,745 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@4b325930
+2023-06-02 11:25:42,757 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:25:42,757 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:25:44,427 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "tw7tD-v6UrJU4RIjEEFbi"
+}
+2023-06-02 11:25:44,440 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:25:44,441 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:25:45,869 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6274f21c
+2023-06-02 11:25:45,869 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:29:06,719 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7dd611c8
+2023-06-02 11:29:07,350 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:29:07,351 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:29:08,527 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@d902300
+2023-06-02 11:29:08,612 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:29:08,612 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:29:10,447 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@261de205
+2023-06-02 11:29:10,464 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:29:10,464 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:29:12,046 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "sb6YqlGb__6b7z-oHPFLM"
+}
+2023-06-02 11:29:12,056 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:29:12,056 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:29:13,347 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@4fa86cb8
+2023-06-02 11:29:13,348 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:29:14,515 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@149274cb
+2023-06-02 11:29:14,515 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:30:19,916 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@1a2909ae
+2023-06-02 11:30:20,551 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:30:20,551 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:30:21,719 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@4c6b4ed7
+2023-06-02 11:30:21,803 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:30:21,803 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:30:23,543 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@15986dd5
+2023-06-02 11:30:23,554 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:30:23,554 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:30:25,244 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "AuEt-vKesAOfCfn23gQe0"
+}
+2023-06-02 11:30:25,256 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 11:30:25,257 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:30:26,537 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@7f977fba
+2023-06-02 11:30:26,537 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:30:27,587 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@101bdd1c
+2023-06-02 11:30:27,588 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 11:32:26,867 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 11:32:26,870 - com.atmecs.qa.test.TestOrders -INFO - 400
+2023-06-02 11:32:26,876 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:33:08,561 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 11:33:08,565 - com.atmecs.qa.test.TestOrders -INFO - 400
+2023-06-02 11:33:08,570 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 11:35:02,324 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 11:35:02,327 - com.atmecs.qa.test.TestOrders -INFO - 400
+2023-06-02 11:35:02,330 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:10:17,675 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 12:24:25,534 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6b69761b
+2023-06-02 12:24:26,117 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:24:26,118 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 12:24:27,428 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@58253c57
+2023-06-02 12:24:27,520 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:24:27,520 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:24:29,595 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@16ee9aa7
+2023-06-02 12:24:29,611 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:24:29,612 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:24:31,526 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "T9AeB0r9bul6KmYDI2H0t"
+}
+2023-06-02 12:24:31,539 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:24:31,540 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:24:32,819 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@2ee39e73
+2023-06-02 12:24:32,821 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 12:24:34,003 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@31da0434
+2023-06-02 12:24:34,004 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 12:24:35,532 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@23444a36
+2023-06-02 12:24:35,533 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:25:09,514 - com.atmecs.qa.test.TestOrders -INFO - 400
+2023-06-02 12:25:09,616 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:25:19,798 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 12:25:19,799 - com.atmecs.qa.test.TestOrders -INFO - 400
+2023-06-02 12:25:19,803 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:26:38,564 - com.atmecs.qa.test.TestOrders -INFO - {
+    "error": "Invalid or missing cartId."
+}
+2023-06-02 12:26:38,567 - com.atmecs.qa.test.TestOrders -INFO - 400
+2023-06-02 12:26:38,589 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:29:43,495 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6fc1020a
+2023-06-02 12:29:43,506 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 12:32:52,347 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@6b52dd31
+2023-06-02 12:32:52,923 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:32:52,924 - com.atmecs.qa.test.TestOrders -ERROR - Server error
+2023-06-02 12:32:54,216 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@642857e0
+2023-06-02 12:32:54,300 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:32:54,301 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:32:56,172 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@32a72c4
+2023-06-02 12:32:56,189 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:32:56,189 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:32:58,014 - com.atmecs.qa.test.TestOrders -INFO - {
+    "created": true,
+    "orderId": "iebB0kCz2ZFWgjxNTXqrv"
+}
+2023-06-02 12:32:58,029 - com.atmecs.qa.api.GeneralMethod -INFO - Validate scheme is not performedjava.lang.IllegalArgumentException: Schema to use cannot be null
+2023-06-02 12:32:58,029 - com.atmecs.qa.test.TestOrders -ERROR - Server Error
+2023-06-02 12:33:00,518 - com.atmecs.qa.test.TestOrders -INFO - io.restassured.internal.RestAssuredResponseImpl@433ea2ac
+2023-06-02 12:33:00,518 - com.atmecs.qa.test.TestOrders -ERROR - Server error

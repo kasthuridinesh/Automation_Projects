@@ -1,0 +1,25 @@
+{
+	"Data": {
+		"TC:49177": {
+			"feature": "MMC_Organization_Edit_Person",
+			"scenario": "TC:49177",
+			"userName": "'admin'",
+			"password": "'datacert'",
+			"listScreenName": "'Organization List'",
+			"mode": "'Normal'",
+			"itemScreen": "'Base Org Header'",
+			"entity": "'Organization'",
+			"entityMode": "'Add'",
+			"fieldName": "'Name'",
+			"fieldValue": "'OrgName'",
+			"organizationType": "'Internal'",
+			"fieldSubName": "'Int Organization Sub Type'",
+			"fieldSubValue": "'InternalSubOrgType'",
+			"vendorId": "Vendor ID",
+			"vendorValue": "'OrgNum'",
+			"actionKey": "'Save'",
+			"instanceId": "'_ParentInstanceId'",
+			"rowCount": "'count'"
+		}
+	}
+}
